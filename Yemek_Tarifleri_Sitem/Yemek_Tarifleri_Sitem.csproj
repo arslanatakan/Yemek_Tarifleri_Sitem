@@ -72,6 +72,7 @@
     <Content Include="Hakkimizda.aspx" />
     <Content Include="iletisim.aspx" />
     <Content Include="resimler\mucver.jpg" />
+    <Content Include="StyleSheet1.css" />
     <Content Include="TarifOner.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>

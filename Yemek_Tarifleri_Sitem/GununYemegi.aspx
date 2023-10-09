@@ -1,21 +1,21 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Kullanici.Master" AutoEventWireup="true" CodeBehind="GununYemegi.aspx.cs" Inherits="Yemek_Tarifleri_Sitem.GununYemegi" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <style type="text/css">
-        .auto-style7 {
-            height: 23px;
-        }
-        .auto-style8 {
-            text-align: center;
-        }
-        .auto-style9 {
-            font-size: x-large;
-        }
-        .auto-style10 {
-            text-align: left;
-        }
-        .auto-style11 {
-            text-align: right;
-        }
+    .auto-style7 {
+        height: 23px;
+    }
+    .auto-style8 {
+        text-align: center;
+    }
+    .auto-style9 {
+        font-size: x-large;
+    }
+    .auto-style10 {
+        text-align: left;
+    }
+    .auto-style11 {
+        text-align: right;
+    }
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
